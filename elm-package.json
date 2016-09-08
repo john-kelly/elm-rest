@@ -1,6 +1,6 @@
 {
-    "version": "3.0.1",
-    "summary": "DEPRECATED: Renamed to http://package.elm-lang.org/packages/john-kelly/elm-postgrest/",
+    "version": "3.0.2",
+    "summary": "DEPRECATED: now package.elm-lang.org/packages/john-kelly/elm-postgrest/",
     "repository": "https://github.com/john-kelly/elm-rest.git",
     "license": "BSD3",
     "source-directories": [
