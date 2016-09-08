@@ -1,0 +1,17 @@
+{
+    "version": "3.0.0",
+    "summary": "DEPRECATED: Renamed to http://package.elm-lang.org/john-kelly/elm-postgrest",
+    "repository": "https://github.com/john-kelly/elm-rest.git",
+    "license": "BSD3",
+    "source-directories": [
+        "src"
+    ],
+    "exposed-modules": [
+        "Rest"
+    ],
+    "dependencies": {
+        "elm-lang/core": "4.0.5 <= v < 5.0.0",
+        "evancz/elm-http": "3.0.1 <= v < 4.0.0"
+    },
+    "elm-version": "0.17.1 <= v < 0.18.0"
+}
